@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Pantalon Snowboard",
+    "precio": 120.7,
+    "thumbnail": "https://www.daktak.es/media/catalog/product/cache/1/small_image/260x/9df78eab33525d08d6e5fb8d27136e95/g/o/go_13.jpg",
+    "id": 1
+  },
+    {
+    "nombre": "Botas Snowboard",
+    "precio": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 2
+  },
+  {
+    "nombre": "Campera Snowboard",
+    "precio": 150.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtfoHQLC5zXuLhr09QSDA0CbRlRl3CqgUS9xPQTHb481cEVdoGVbyWMpjZ0rWQWwvDwM&usqp=CAU",
+    "id": 3
+  }
+]
