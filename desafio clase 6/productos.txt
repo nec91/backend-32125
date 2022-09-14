@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Botas Snowboard",
+    "precio": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 1
+  },
+  {
+    "nombre": "Botas Snowboard",
+    "precio": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 2
+  },
+  {
+    "nombre": "Botas Snowboard",
+    "precio": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 3
+  },
+  {
+    "nombre": "Botas Snowboard",
+    "precio": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 4
+  },
+  {
+    "nombre": "Botas Snowboard",
+    "precio": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 5
+  },
+  {
+    "nombre": "Botas Snowboard",
+    "precio": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 6
+  }
+]
