@@ -40,7 +40,7 @@ class Productos {
         this.getProducts
         try {
           const { title, price, thumbnail } = product
-          const item = this.items.find((prd) => prd.id === Number(id))
+          const item = this.productos.find((prd) => prd.id === Number(id))
           if (item) {
             item.title = title;
             item.price = price;
