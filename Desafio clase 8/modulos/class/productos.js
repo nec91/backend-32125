@@ -32,7 +32,7 @@ class Productos {
     deleteById(id) {
         this.getProducts;
         const item = this.productos.find((product) => product.id === Number(id)) || { error: 'Producto no encontrado.' }
-        this.items = this.productos.filter((item) => item.id !== Number(id))
+        this.productos = this.productos.filter((item) => item.id !== Number(id))
         return item
     }
 
