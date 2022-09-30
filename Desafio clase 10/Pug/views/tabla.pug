@@ -1,0 +1,22 @@
+extends layout
+block tabla
+    section(class="m-5")
+        if productos.length > 0
+            table(class="table")
+                thead
+                    tr
+                        th(scope="col") Id
+                        th(scope="col") Nombre
+                        th(scope="col") Precio
+                        th(scope="col") Imagen
+            
+                tbody
+                    each product in productos
+                        tr
+                            th(scope="row")= productos.id
+                            td= productos.nombre
+                            td= productos.precio
+                            td
+                                img(src=productos.thumbnail class="w-25 h-auto")
+        else
+            div(class="alert alert-danger" role="alert") = mensaje 
