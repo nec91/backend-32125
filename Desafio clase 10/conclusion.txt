@@ -1,0 +1,2 @@
+Si tuviese que quedarme con un solo motor, eligiria EJS, ya que me parecio el menos tedioso de usar, ya que simplemente se debe generar el html correcto, y agregar el codigo JS entre medio utilizando la nomenclatura correcta.
+Como segunda opcion utilizaria PUG.
