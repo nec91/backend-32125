@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Botas Snowboard",
+    "price": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 4
+  },
+  {
+    "title": "dsadasdsadas lala",
+    "price": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 5
+  },
+  {
+    "title": "Botas Snowboard",
+    "price": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 9
+  },
+  {
+    "title": "Botas Snowboard",
+    "price": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 10
+  },
+  {
+    "title": "Botas Snowboard",
+    "price": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 11
+  },
+  {
+    "title": "Botas lala",
+    "price": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 12
+  },
+  {
+    "title": "Botas lala",
+    "price": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 13
+  },
+  {
+    "title": "Botas lala",
+    "price": 70.5,
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGL8vMTErsxIlz03ru-Kg3_N_ZcotFQGCDQ&usqp=CAU",
+    "id": 14
+  }
+]
