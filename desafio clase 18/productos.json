@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6357514705f4a595f3240c5e"
+  },
+  "title": "Botas Snowboard",
+  "price": 1500,
+  "thumbnail": "https://assets.adidas.com/images/w_600,f_auto,q_auto/68f4cecf54824d5fb325aa34003637e3_9366/Botas_Snowboard_Tactical_Lexicon_ADV_Blanco_G26233_01_standard.jpg",
+  "Stock": 100
+},{
+  "_id": {
+    "$oid": "6357514705f4a595f3240c5f"
+  },
+  "title": "Campera Snowboard",
+  "price": 2750,
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_835093-MLA44847377603_022021-O.jpg",
+  "Stock": 100
+},{
+  "_id": {
+    "$oid": "6357514705f4a595f3240c60"
+  },
+  "title": "Tabla Snowboard",
+  "price": 5500,
+  "thumbnail": "https://universoventura.vteximg.com.br/arquivos/ids/196256-600-600/Tabla-Snowboard-Rossignol-Circuit-Aplification-Tech---Fijaciones-Black-REKWP10--6.jpg?v=637899755656370000",
+  "Stock": 0
+},{
+  "_id": {
+    "$oid": "6357514705f4a595f3240c61"
+  },
+  "title": "GoPro",
+  "price": 4500,
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_815623-MLA51481786285_092022-V.webp",
+  "Stock": 0
+},{
+  "_id": {
+    "$oid": "6357526605f4a595f3240c68"
+  },
+  "title": "Antiparras",
+  "price": 3250,
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_955464-MLA41877331976_052020-O.webp",
+  "Stock": 100
+}]

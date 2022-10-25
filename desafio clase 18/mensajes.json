@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c40"
+  },
+  "username": "Nicolas",
+  "date": "24/10/2022 23:29:39",
+  "text": "Hola, como estas?"
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c41"
+  },
+  "username": "Paula",
+  "date": "24/10/2022 23:29:39",
+  "text": "Hola, bien y vos?"
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c42"
+  },
+  "username": "Nicolas",
+  "date": "24/10/2022 23:29:39",
+  "text": "Bien, aca trabajando en mi proyecto."
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c43"
+  },
+  "username": "Paula",
+  "date": "24/10/2022 23:29:39",
+  "text": "Que bueno! yo tambien..."
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c44"
+  },
+  "username": "Nicolas",
+  "date": "24/10/2022 23:29:39",
+  "text": "Como venis?"
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c45"
+  },
+  "username": "Paula",
+  "date": "24/10/2022 23:29:39",
+  "text": "Bien"
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c46"
+  },
+  "username": "Nicolas",
+  "date": "24/10/2022 23:29:39",
+  "text": "Que bueno, cualquier cosa hablamos"
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c47"
+  },
+  "username": "Paula",
+  "date": "24/10/2022 23:29:39",
+  "text": "Dale! saludos!"
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c48"
+  },
+  "username": "Paula",
+  "dte": "24/10/2022 23:29:39",
+  "text": "Adios!"
+},{
+  "_id": {
+    "$oid": "63574a1305f4a595f3240c49"
+  },
+  "username": "Nicolas",
+  "date": "24/10/2022 23:29:39",
+  "text": "Adios! :D"
+}]
